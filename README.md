@@ -1,0 +1,1 @@
+Simple shell script to advertise BLE packets using BlueZ hcitool cmd, according to Google + Apple COVID-19 "exposure notification" Bluetooth specification (https://www.google.com/covid19/exposurenotifications/).
